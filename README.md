@@ -1,5 +1,7 @@
 # EDA-Data-Visualisation-Netflix
 
+for work you need to download data
+
 Data: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores
 
 ![image](https://user-images.githubusercontent.com/79157909/138552616-04583b3b-7188-47c5-a305-b26ac56c0e97.png)
