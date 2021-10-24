@@ -1,6 +1,6 @@
-# EDA-Data-Visualisation-Netflix
+## EDA-Data-Visualisation-Netflix
 
-for work you need to download data
+**For work you need to download data**
 
 Data: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores
 
@@ -9,35 +9,32 @@ Data: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores
 **Context**
 
 This dataset consists of all Netflix original films released as of June 1st, 2021. Additionally, it also includes all Netflix documentaries and specials. The data was webscraped off of this Wikipedia page, which was then integrated with a dataset consisting of all of their corresponding IMDB scores. IMDB scores are voted on by community members, and the majority of the films have 1,000+ reviews.
+**
+## Included in the dataset is:
+- Title of the film
+- Genre of the film
+- Original premiere date
+- Runtime in minutes
+- IMDB scores (as of 06/01/21)
+- Languages currently available (as of 06/01/21)
 
-**Content**
+## Required libraries:
+ - [Pandas](https://pandas.pydata.org/) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.
+- [NumPy](https://numpy.org/) - Numpy logo. A three-dimensional blue cube with the letter 'N' highlighted in yellow.
+- [Matplotlib](https://matplotlib.org/stable/index.html) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [Seaborn](https://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
-Included in the dataset is:
+## Installation:
+```sh
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+```
 
-Title of the film
-
-Genre of the film
-
-Original premiere date
-
-Runtime in minutes
-
-IMDB scores (as of 06/01/21)
-
-Languages currently available (as of 06/01/21)
-
-
-**Required libraries:**
-
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-**examples:**
+## Examples:
+***
 
 ![image](https://user-images.githubusercontent.com/79157909/138552717-333feea4-0b4f-40e2-8d99-7a8303175db4.png)
 
